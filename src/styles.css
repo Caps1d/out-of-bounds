@@ -1,1 +1,62 @@
 /* You can add global styles to this file, and also import other style files */
+.header {
+    padding: 10px 10px 10px 10px;
+    background-color: #779A50;
+  }
+  /* .header a{
+    color:#dddddd;
+  } */
+  
+  h1{
+    color:#ffffff;
+  }
+  /* p{
+    color:#ffffff;
+  } */
+  
+  body {
+    padding: 0 0 0 0;
+  }
+  .main-content {
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #dddddd;
+    margin: 30px 0 0 0;
+  }
+  .special{
+    color: orange;
+    font-weight: bold;
+  }
+  .txtcol{
+    color: grey;
+    font-weight: bold;
+  }
+  span.special {
+    color: red;
+    font-weight: bold;
+  }
+  
+  li em {
+    color: rebeccapurple;
+  }
+  #rcorners1 {
+    border-radius: 25px;
+    border: 2px solid #B04C1A;
+    padding: 20px;
+    width: 250px;
+    height: 100px;
+  }
+  #rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #B04C1A;
+    padding: 20px;
+    width: 250px;
+    height: 100px;
+  }
+  /* html {
+    margin: 10px;
+  } */
+  /* .custom{
+    border-bottom: 5px solid;
+    border-bottom-color: orange;
+  } */
+  
